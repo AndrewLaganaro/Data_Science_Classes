@@ -1,0 +1,20 @@
+{
+    "Folders":
+                {
+                "Data Raw"       : "..\\Data\\1) Raw",
+                "Data Ongoing"   : "..\\Data\\2) Ongoing",
+                "Dataset"        : "..\\Data\\3) Dataset" ,
+                "DB Mongo"       : "..\\Databases\\Mongo",
+                "DB Mysql"       : "..\\Databases\\MySQL",
+                "DB Sqlite"      : "..\\Databases\\SQLite",
+                "Docs"           : "..\\Docs",
+                "Env"            : "..\\Env",
+                "Models Dev"     : "..\\Models\\Developing",
+                "Models Prod"    : "..\\Models\\Production",
+                "Models"         : "..\\Models",
+                "Reports"        : "..\\Reports",
+                "Reports Finals" : "..\\Reports\\Finals",
+                "Reports Prelim" : "..\\Reports\\Preliminary",
+                "Requirements"   : "..\\Requirements"
+                }
+    }
