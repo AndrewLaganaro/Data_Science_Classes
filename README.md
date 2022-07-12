@@ -80,7 +80,7 @@ git clone https://github.com/AndrewLaganaro/Data_Science_Classes
 ```
 ```
 ...
-📁 Data Science ⬅️ 💻 Start your terminal here 💻
+📁 Data Science
     📁 Diamond_Analysis
     📁 Python_Studies
     📁 Iris_Analysis
