@@ -14,10 +14,10 @@
 
 #### 🚀 Built with
 - 🐍Python
-- 📚Pandas
-- 📚Numpy
-- 📚Matplotlib
-- 📚Seaborn
+- 🐼Pandas
+- 📝Numpy
+- 📈Matplotlib
+- 📉Seaborn
 - 🪐Jupyter Notebook
 - 🖼Drawio
 
