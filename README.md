@@ -1,9 +1,6 @@
 # Data Science Classes
-<center>
 
-![](Images/Classes_Data_Science.png)
-
-</center>
+<img src="Images/Classes_Data_Science.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador Andrew">
 
 ## 📜 About this project
 
