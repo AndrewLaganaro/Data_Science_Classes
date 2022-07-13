@@ -2,6 +2,10 @@
 
 <img src="Images/Classes_Data_Science.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Classes_Data_Science">
 
+##### Author: Andrew Laganaro
+
+#### [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
+
 ## 📜 About this project
 
 #### Classes to help with data science development and analysis that I came up with along my data sciene journey.
@@ -20,7 +24,7 @@
 
 ####  ⬇️ Take a look at my Portfolio ⬇️
   
-  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
+  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
   
 #### 🎯 General project status
 
@@ -135,5 +139,5 @@ It also serves to import models, scalers, encoders and binary files in general u
 
 ####  ⬇️ Take a look at my Portfolio ⬇️
   
-  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
+  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
   
