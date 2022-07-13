@@ -8,7 +8,7 @@
 
 ## 📜 About this project
 
-#### Classes to help with data science development and analysis that I came up with along my data sciene journey.
+#### Classes to help with data science development and analysis that I came up with along my data science journey.
 
 >At this point these classes are just an initial scketch that shall be improved as I go along.
 >My intention is to build a library that can be used by other developers and data scientist alike.
