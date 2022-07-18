@@ -4,9 +4,9 @@
 
 # Data Science Classes
 
-##### Readme in English <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/README.en.md" alt="American"> <img title="American" alt="American" src="Images/usa.png" width="20"></a></kbd>◀ </p>
+##### Readme in English <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/Readme.en.md" alt="American"> <img title="American" alt="American" src="Images/usa.png" width="20"></a></kbd>◀ </p>
 
-##### Léame en Español <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/README.es.md" alt="Español"> <img title="Español" alt="Español" src="Images/es.png" width="20"></a></kbd>◀ </p>
+##### Léame en Español <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/Readme.es.md" alt="Español"> <img title="Español" alt="Español" src="Images/es.png" width="20"></a></kbd>◀ </p>
 
 #### [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
 
