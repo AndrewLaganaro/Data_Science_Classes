@@ -4,24 +4,24 @@
 
 # Data Science Classes
 
-##### Readme in English <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/README.en.md" alt="American"> <img title="American" alt="American" src="Images/usa.png" width="20"></a></kbd>◀ </p>
+##### Leia-me em português <p align="left">  ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/" alt="Brazilian">  <img title="Brazilian" alt="Brazilian" src="Images/br.jpg" width="20"></a></kbd>◀ </p>
 
 ##### Léame en Español <p align="left"> ▶<kbd><a href="https://github.com/AndrewLaganaro/Data_Science_Classes/blob/main/README.es.md" alt="Español"> <img title="Español" alt="Español" src="Images/es.png" width="20"></a></kbd>◀ </p>
 
 #### [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
 
-##### Autor: Andrew Laganaro
+##### Author: Andrew Laganaro
 
 ---
 
-## 📜 Sobre este projeto
+## 📜 About this project
 
-#### Classes para ajudar no desenvolvimento e análise de data science que criei ao longo da minha jornada em ciência de dados
+#### Classes to help with data science development and analysis that I came up with along my data science journey.
 
->Essas classes são apenas um esboço inicial que será aprimorado ao longo do tempo.
->Minha intenção é construir uma biblioteca que possa ser usada por outros desenvolvedores e cientistas de dados.
+>At this point these classes are just an initial scketch that shall be improved as I go along.
+>My intention is to build a library that can be used by other developers and data scientist alike.
 
-#### 🚀 Construído com
+#### 🚀 Built with
 - 🐍Python
 - 🐼Pandas
 - 📝Numpy
@@ -30,7 +30,7 @@
 - 🪐Jupyter Notebook
 - 🖼Drawio
 
-### 🛠 Projetos
+### 🛠 Projects
 
   [![Store Sales Analysis](https://img.shields.io/badge/Projects-Store%20Sales%20Analysis-orange)](https://github.com/AndrewLaganaro/Store_Sales_Analysis)
   
@@ -38,16 +38,17 @@
   
   [![Data Science Classes](https://img.shields.io/badge/Projects-Data%20Science%20Classes-red)](https://github.com/AndrewLaganaro/Data_Science_Classes)
 
-####  ⬇️ Dá uma olhada no meu Portfolio ⬇️
+####  ⬇️ Take a look at my Portfolio ⬇️
   
   [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
   
-#### 🎯 Status geral do projeto
+#### 🎯 General project status
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
-##### ⭐️ Classes que serão adicionadas
-- [ ] 📈 **Classe de gráficos com seaborn and matplotlib**
+
+##### ⭐️ Future classes to be added
+- [ ] 📈 **Plotting class with seaborn and matplotlib**
 
     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
@@ -56,7 +57,7 @@
     - Figure out how to make it more flexible with different quantities of graphs in one figure. Probably with gridspec.
     - They also need to be generalized to handle datasets in various plot cases like bar charts, scatter plots, line charts, etc.
 
-- [ ] 📝 **Classe de descrição geral de análise de dados**
+- [ ] 📝 **General data analysis descriptor class**
 
     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
@@ -65,35 +66,35 @@
     - Easier to be generalized, since we'll just use default pandas functions
 
 
-#### 📝 Como usar este projeto
+#### 📝 How to use this Project
 
-##### 💻 Pré-requisitos
+##### 💻 Pre-requisites
 
-Antes de começar, verifique se você atende aos seguintes requisitos:
+Before starting, make sure you've met the following requirements:
 
-- Você instalou a versão mais recente do Python, pandas, numpy, matplotlib, seaborn e Jupyter Notebook.
-    - No mínimo Python 3.6 é necessário
+- You have installed the latest version of Python, pandas, numpy, matplotlib, seaborn, and Jupyter Notebook.
+    - At least Python 3.6 is required.
+- You have either Windows, Linux or Mac machine.
 
-##### 🚀 Instalando a Data Science Classes
+##### 🚀 Installing Data Science Classes
 
-Para instalar a Data Science Classes, siga os passos:
+To install the Data Science Classes, follow these steps:
 
-- 📁 Selecione uma pasta na qual você deseja que seu projeto fique
-
+- 📁 Select a folder which you want your project to live in.
 ```
 ...
-📁 Data Science ⬅️ 💻 Inicie o seu terminal aqui 💻
+📁 Data Science ⬅️ 💻 Start your terminal here 💻
     📁 Diamond_Analysis
     📁 Python_Studies
     📁 Iris_Analysis
     ...
 ```
-- 💻 Instale o pandas, numpy, matplotlib, seaborn, e Jupyter Notebook com pip:
+- 💻 Install pandas, numpy, matplotlib, seaborn, and Jupyter Notebook with pip:
 
 ```
 pip install pandas numpy matplotlib seaborn jupyter
 ```
-- 💻 Por enquanto nenhuma das classes é instalável diretamente, mas você pode baixá-las clonando este repositório:
+- 💻 For now none of the classes are directly installable, but you can download them directly by cloning this repository:
 
 ```
 git clone https://github.com/AndrewLaganaro/Data_Science_Classes
@@ -108,49 +109,47 @@ git clone https://github.com/AndrewLaganaro/Data_Science_Classes
     ...
 ```
 
-#### ☕ Usando a Data Science Classes
+#### ☕ Using Data Science Framework
+To use those classes take a look at each class description bellow.
 
-Para usar estas classes dê uma olhada nas descrições delas abaixo.
-
-##### 📚 Atualmente as seguintes classes estão disponíveis:
+##### 📚 Currently the following classes are available
 - [x] 📊 **Dataset loader**
 
     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
-    - Destinada a carregar arquivos para auxiliar e agilizar o carregamento de dados em uma determinada análise.
-    - Serve para importar modelos, scalers, encoders e arquivos binários em geral usados em machine learning
+    - Intended to load files to help and agilize data loading in a given analysis.
+    - Serves to import models, scalers, encoders and binary files in general used in machine learning
 
 ---
 
-#### 🎯 Status geral do projeto
+##### 🎯 General project status
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
-#### ⭐️ Recursos a serem finalizados
-
-- [ ] Substituir a nomenclatura direta da pasta por um nome de grupo de diretórios, especificado dentro do arquivo .json
+##### ⭐️ Features to be finished
+- [ ] Replace the direct folder naming by a directory group name, specified inside the .json file
 
     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
-    - Em vez de 'nome da pasta', especificar 'nome do grupo de pastas' que pode conter várias pastas dentro
+    - Instead of 'folder name', specify 'directory group name' than may contain multiple folders inside
     
-- [ ] Separar a função de validação da classe principal e mover para um arquivo separado
+- [ ] Separate validation function from main class and move it to a separate file
 
     ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
 
-    - Melhorar a legibilidade do funcionamento da classe principal.
+    - Improve main class functioning readability.
 
-#### ⭐️ Recursos a serem adicionados
-- [ ] Suporte a arquivos parquet
-- [x] Suporte a arquivos csv
-- [x] Suporte a arquivos txt
-- [ ] Suporte a arquivos hdf5
-- [x] Suporte a arquivos pickle
-- [x] Suporte a arquivos json
+##### ⭐️ Features to be added
+- [ ] Support to parquet files
+- [x] Support to csv files
+- [x] Support to txt files
+- [ ] Support to hdf5 files
+- [x] Support to pickle files
+- [x] Support to json files
 
 ---
 
-####  ⬇️ Dá uma olhada no meu Portfolio ⬇️
+####  ⬇️ Take a look at my Portfolio ⬇️
   
   [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
   
