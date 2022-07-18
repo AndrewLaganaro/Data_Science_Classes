@@ -14,7 +14,7 @@
 
 ---
 
-## 📜 Sobre este projeto
+## 📜 Sobre o projeto
 
 #### Classes para ajudar no desenvolvimento e análise de data science que criei ao longo da minha jornada em ciência de dados
 
